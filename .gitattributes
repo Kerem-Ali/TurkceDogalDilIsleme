@@ -1,0 +1,5 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+entity_cikarici_ellenmis.ai filter=lfs diff=lfs merge=lfs -text
+entity_cikarici.ai2 filter=lfs diff=lfs merge=lfs -text
+ilgilikisimcikarici.ai filter=lfs diff=lfs merge=lfs -text
+entity_cikarici_ellenmemis.ai filter=lfs diff=lfs merge=lfs -text
